@@ -1,4 +1,4 @@
-![Banner](./Adobe Express - file.png)
+![Banner](./banner.png)
 
 ## Hi there 👋
 I am currently using this account to organize whatever I'm working on.
