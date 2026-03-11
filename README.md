@@ -1,3 +1,5 @@
+![Banner](./Beam_Simulation.png)
+
 ## Hi there 👋
 I am currently using this account to organize whatever I'm working on.
 <!--
