@@ -58,41 +58,14 @@ I am a Ph.D. student in the Nuclear & Radiological Engineering and Medical Physi
   </tr>
 </table>
 
-## 🔬 Current Research & Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Accelerated SIEMAC (private)** | GPU-accelerated radiation transport using Diffusion Models. | `Python` `CUDA` `PyTorch` |
-| **[nnUNet Particle Classification](https://github.com/amenon83/nnUNet_Project)** | Mixed Radiation Field Characterization | `PyTorch` `Pandas` |
-
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
+<h2 align="center">🐍 My Contribution Trail</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amenon83/amenon83/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amenon83/amenon83/output/github-contribution-grid-snake.svg">
+    <img alt="Arnav's GitHub Contribution Snake" src="https://raw.githubusercontent.com/amenon83/amenon83/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 900px;" />
+  </picture>
 </p>
-
-## 🛠️ Technical Stack
-
-| **Computational Physics** | **Deep Learning** | **DevOps & Tools** |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/OpenMC-Optional-blue" /> | <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" /> | <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white" /> |
-
-## Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/amenon83" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/_arnav_menon_" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
-<a href="https://orcid.org/0009-0003-3231-7547" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" height="32" alt="ORCID" /></a>
-</p>
-
-![Snake animation](https://github.com/amenon83/amenon83/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true" width="100%"/>
