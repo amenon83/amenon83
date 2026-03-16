@@ -19,6 +19,7 @@ jobs:
         with:
           github_user_name: amenon83
           outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # Updated to v4 to fix Node.js warning
