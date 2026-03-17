@@ -56,26 +56,9 @@ I am a Ph.D. student in the Nuclear & Radiological Engineering and Medical Physi
 * 🛠️ **Systems:** Refining my "Learn to Learn" workflow for PhD-level research.
 
 <p align="center">
-  <img src="./assets/obsidian-graph.gif" width="80%" alt="My Research Graph" style="border-radius:10px;" />
+  <img src="./assets/graph.png" width="50%" alt="My Research Graph" style="border-radius:10px;" />
   <br/>
-  <em>Visualizing connections across my research vault.</em>
 </p>
-
-<table border="0">
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/obsidian-colored.svg" width="80" />
-    </td>
-    <td width="80%">
-      <strong>The Second Brain</strong><br/>
-      I utilize <b>Obsidian</b> to manage my research vault, connecting insights across medical physics literature, radiation transport theory, and machine learning. 
-      <ul>
-        <li>📑 <b>Literature Reviews:</b> Integrated with Zotero for seamless academic sourcing.</li>
-        <li>🕸️ <b>Graph View:</b> Mapping the intersections between FLASH therapy and surrogate modeling.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ## 🐍 My Contribution Trail
 <p align="center">
