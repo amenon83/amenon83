@@ -14,39 +14,70 @@ I am a Ph.D. student in the Nuclear & Radiological Engineering and Medical Physi
 <table border="0">
   <tr>
     <td width="33.3%" valign="top">
-      <a href="https://github.com/amenon83">
+      <img src="https://raw.githubusercontent.com/amenon83/amenon83/main/assets/siemac-sim.gif" width="100%" style="border-radius:10px; margin-bottom:10px;" />
+      <a href="https://github.com/amenon83/SIEMAC_card">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=SIEMAC_card&theme=transparent&show_owner=false&description_lines=3" width="100%" />
       </a>
       <p align="center">
         <b>Accelerated SIEMAC</b><br/>
-        <small>Some Description</small><br/>
-        <code>TOPAS</code> <code>HPC</code> <code>CUDA</code> <code>PyTorch</code>
+        <small>GPU-accelerated radiation transport using Diffusion Models.</small><br/>
+        <code>TOPAS</code> <code>CUDA</code> <code>PyTorch</code>
       </p>
     </td>
     <td width="33.3%" valign="top">
+      <img src="https://raw.githubusercontent.com/amenon83/amenon83/main/assets/nnunet-segmentation.gif" width="100%" style="border-radius:10px; margin-bottom:10px;" />
       <a href="https://github.com/amenon83/nnUNet_Project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=nnUNet_Project&theme=transparent&show_owner=false&description_lines=3" width="100%" />
       </a>
       <p align="center">
         <b>nnUNet Medical Imaging</b><br/>
         <small>Segmentation framework for clinical radiation therapy.</small><br/>
-        <code>PyTorch</code> <code>Medical-AI</code>
+        <code>PyTorch</code> <code>Medical-AI</code> <code>SimpleITK</code>
       </p>
     </td>
     <td width="33.3%" valign="top">
-      <a href="https://github.com/amenon83">
+      <img src="https://raw.githubusercontent.com/amenon83/amenon83/main/assets/origami-fold.gif" width="100%" style="border-radius:10px; margin-bottom:10px;" />
+      <a href="https://github.com/amenon83/Crease_Pattern_Explorer_card">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=Crease_Pattern_Explorer_card&theme=transparent&show_owner=false&description_lines=3" width="100%" />
       </a>
       <p align="center">
         <b>Computational Origami</b><br/>
-        <small>Basic Origami Simulator</small><br/>
-        <code>Python</code> <code>JavaScript</code> <code>IDK</code>
+        <small>Simulator for complex crease pattern transformations.</small><br/>
+        <code>Python</code> <code>Three.js</code> <code>Geometry</code>
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">🐍 My Contribution Trail</h3>
+## 📚 Currently Exploring (via my Obsidian Vault)
+* 🚀 **Accelerating Simulations:** Deep dive into Diffusion models for SIEMAC.
+* ⚛️ **Clinical Physics:** Analyzing the biological mechanisms of the FLASH effect.
+* 🤖 **AI in Medicine:** Optimization of PINNs for real-time dose calculation.
+* 🛠️ **Systems:** Refining my "Learn to Learn" workflow for PhD-level research.
+
+<p align="center">
+  <img src="./assets/obsidian-graph.gif" width="80%" alt="My Research Graph" style="border-radius:10px;" />
+  <br/>
+  <em>Visualizing connections across my research vault.</em>
+</p>
+
+<table border="0">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/obsidian-colored.svg" width="80" />
+    </td>
+    <td width="80%">
+      <strong>The Second Brain</strong><br/>
+      I utilize <b>Obsidian</b> to manage my research vault, connecting insights across medical physics literature, radiation transport theory, and machine learning. 
+      <ul>
+        <li>📑 <b>Literature Reviews:</b> Integrated with Zotero for seamless academic sourcing.</li>
+        <li>🕸️ <b>Graph View:</b> Mapping the intersections between FLASH therapy and surrogate modeling.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🐍 My Contribution Trail
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amenon83/amenon83/output/github-contribution-grid-snake-dark.svg">
