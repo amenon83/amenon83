@@ -13,46 +13,34 @@ I am a Ph.D. student in the Nuclear & Radiological Engineering and Medical Physi
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <a href="https://github.com/amenon83">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=SIEMAC_card&theme=transparent&show_owner=false&description_lines=3" width="100%" />
       </a>
       <p align="center">
         <b>Accelerated SIEMAC</b><br/>
-        <i>Surrogate modeling for Monte Carlo transport.</i><br/>
-        <code>PyTorch</code> <code>CUDA</code> <code>GEANT4/TOPAS</code> <code>HPC</code>
+        <small>Some Description</small><br/>
+        <code>TOPAS</code> <code>HPC</code> <code>CUDA</code> <code>PyTorch</code>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amenon83">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=Proton_ML&theme=transparent&show_owner=false&description_lines=3" width="100%" />
-      </a>
-      <p align="center">
-        <b>Proton Therapy & FLASH</b><br/>
-        <i>Physics-Informed Neural Networks for Dose Calculation.</i><br/>
-        <code>C++</code> <code>LibTorch</code> <code>PINNs</code> <code>Physics</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <a href="https://github.com/amenon83/nnUNet_Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=nnUNet_Project&theme=transparent&show_owner=false" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=nnUNet_Project&theme=transparent&show_owner=false&description_lines=3" width="100%" />
       </a>
       <p align="center">
         <b>nnUNet Medical Imaging</b><br/>
-        <i>State-of-the-art segmentation for clinical RT.</i><br/>
-        <code>PyTorch</code> <code>SimpleITK</code> <code>Medical-AI</code>
+        <small>Segmentation framework for clinical radiation therapy.</small><br/>
+        <code>PyTorch</code> <code>Medical-AI</code>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.3%" valign="top">
       <a href="https://github.com/amenon83">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=Proton_ML&theme=transparent&show_owner=false&description_lines=3" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amenon83&repo=Crease_Pattern_Explorer_card&theme=transparent&show_owner=false&description_lines=3" width="100%" />
       </a>
       <p align="center">
-        <b>Proton Therapy & FLASH</b><br/>
-        <i>Physics-Informed Neural Networks for Dose Calculation.</i><br/>
-        <code>C++</code> <code>LibTorch</code> <code>PINNs</code> <code>Physics</code>
+        <b>Computational Origami</b><br/>
+        <small>Basic Origami Simulator</small><br/>
+        <code>Python</code> <code>JavaScript</code> <code>IDK</code>
       </p>
     </td>
   </tr>
