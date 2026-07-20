@@ -69,31 +69,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Direct probabilistic IMPT treatment planning with setup and range errors for neuro-oncological patients](https://arxiv.org/abs/2607.13869)**  
-_Jelte R. de Jong, Sebastiaan Breedveld, Steven J. M. Habraken et al. · 2026-07-15_  
-A probabilistic intensity-modulated proton therapy planning approach that optimizes directly for clinical goals under setup and range uncertainty, with patient-specific acceptance probabilities.
+**[Fast ungated five-dimensional cardiac MRI on a 1.5 T MR-linac for MRI-guided radiotherapy](https://arxiv.org/abs/2607.16033v1)**  
+_M. L. Terpstra, T. E. Olausson, M. M. N. Aubert et al. · 2026-07-17_  
+Background: Stereotactic arrhythmia radio-ablation (STAR) for patients with ventricular tachycardia is currently limited by complex cardiorespiratory motion. Current 5D-MRI motion models require long…
 
-**[One-for-All Adaptive Radiotherapy Planning Agent: A Foundation Framework for Daily CBCT-guided Radiotherapy](https://arxiv.org/abs/2607.14870)**  
-_Shaoyan Pan, Kirk Jon Luca, Yuan Gao et al. · 2026-07-16_  
-A foundation-model agent that performs complete, treatment-specific online adaptive planning directly from daily cone-beam CT in under two minutes across multiple cancer sites.
+**[Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction](https://arxiv.org/abs/2607.15812v1)**  
+_Jianing Sun, Jean Michel Létang, Qixiang Sun et al. · 2026-07-17_  
+Cone-beam computed tomography (CBCT) is fundamentally challenged by scatter and beam hardening artifacts, which originate from X-ray scattering and the polychromatic nature of the X-ray spectrum…
 
-**[A novel unsupervised machine learning strategy to handle multimodal cardiac PET/MRI data](https://arxiv.org/abs/2607.13936)**  
-_Brunnhilde Ponsi, Thomas Carlier, Lara Marteau et al. · 2026-07-15_  
-An unsupervised clustering approach on paired PET/MRI data to characterise myocardial heterogeneity in arrhythmogenic left-ventricular cardiomyopathy patients.
+**[Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation](https://arxiv.org/abs/2607.15492v1)**  
+_Adarsh Pashikanti, Shrey Chowdhary, Alex Ho et al. · 2026-07-16_  
+The heart's contractions are triggered by action potential waves, which propagate through the cardiac muscle and exhibit diverse spatio-temporal dynamics during different heart rhythms. The dynamics…
 
-**[Operator-Informed Gaussian Processes for Complex Helmholtz Wavefields: From Synthetic Benchmarks to In Vivo Brain Elastography](https://arxiv.org/abs/2607.14193)**  
-_Boyuan Deng, Kshitiz Upadhyay, Michael Shields · 2026-07-15_  
-Operator-informed Gaussian-process regression extended to complex-valued Helmholtz problems for probabilistic wavefield inference in in-vivo brain elastography.
-
-**[The Wulff bio-heat transfer model revisited: directional blood enthalpy transport and implications for laser-induced thermal therapy](https://arxiv.org/abs/2607.14017)**  
-_Valerio D'Alessandro, Matteo Falone, Luca Giammichele et al. · 2026-07-15_  
-A re-examination of the Wulff bio-heat formulation and the biological Péclet number, clarifying directional blood enthalpy transport for laser-induced thermal therapy.
-
-**[Flow in a porous non-axisymmetric annular conduit: coupling wall compliance and peristalsis](https://arxiv.org/abs/2607.15239)**  
+**[Flow in a porous non-axisymmetric annular conduit: Coupling wall compliance and peristalsis](https://arxiv.org/abs/2607.15239v1)**  
 _Nishanth Surianarayanan, Ivan C. Christov · 2026-07-16_  
-A model of peristaltic pumping in non-axisymmetric annular conduits with porous drag and two-way fluid–structure coupling between the compliant wall and cerebrospinal fluid flow.
+Coenen \textit{et al.}\ (\textit{J. Fluid Mech.}, vol.~921, 2021, p.~R2) developed a reduced-order model of peristaltic pumping in non-axisymmetric annular conduits with rigid walls, in the context…
 
-_Updated: 2026-07-19 · source: arXiv physics.med-ph_
+**[One-for-All Adaptive Radiotherapy Planning Agent: A Foundation Framework for Daily CBCT-guided Radiotherapy](https://arxiv.org/abs/2607.14870v1)**  
+_Shaoyan Pan, Kirk Jon Luca, Yuan Gao et al. · 2026-07-16_  
+In this work, we introduce the One-for-All Adaptive Radiotherapy Planning Agent, a unified foundation-model-based system that performs complete, treatment-specific online adaptive planning directly…
+
+**[The Wulff bio-heat transfer model revisited: directional blood enthalpy transport, the biological Peclet number, and implications for laser-induced thermal therapy](https://arxiv.org/abs/2607.14017v1)**  
+_Valerio D'Alessandro, Matteo Falone, Luca Giammichele et al. · 2026-07-15_  
+Bio-heat transfer models play a fundamental role in predicting temperature fields during laser-induced thermal therapy (LITT). Among continuum bio-heat transfer models, the Pennes equation remains…
+
+_Updated: 2026-07-20 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
