@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=A+GitHub+Portfolio&fontSize=50&fontAlignY=85&fontColor=22DAB0FF&height=100&section=header" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/amenon83"><img src="https://img.shields.io/badge/Ph.D.-Nuclear%20%26%20Radiological%20Eng%20%2B%20Medical%20Physics-22DAB0?style=flat-square&labelColor=0d1117" alt="PhD program"/></a>
-  <img src="https://img.shields.io/badge/Georgia%20Tech-NRE%2FMP-B3A369?style=flat-square&labelColor=0d1117" alt="Georgia Tech"/>
-  <img src="https://img.shields.io/badge/focus-proton%20therapy%20%C2%B7%20Monte%20Carlo%20%C2%B7%20ML-3987e5?style=flat-square&labelColor=0d1117" alt="focus"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&center=true&color=22DAB0FF&width=1000&lines=Ph.D.+student+in+Medical+Physics+%40+Georgia+Tech;Accelerating+proton+therapy+with+GPU+%2B+ML;Monte+Carlo%2C+diffusion+models%2C+microdosimetry;A+showcase+of+my+PhD+research+%E2%80%94+take+a+look!)](https://git.io/typing-svg)
 
 ---
