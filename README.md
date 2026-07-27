@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Fast ungated five-dimensional cardiac MRI on a 1.5 T MR-linac for MRI-guided radiotherapy](https://arxiv.org/abs/2607.16033v1)**  
-_M. L. Terpstra, T. E. Olausson, M. M. N. Aubert et al. · 2026-07-17_  
-Background: Stereotactic arrhythmia radio-ablation (STAR) for patients with ventricular tachycardia is currently limited by complex cardiorespiratory motion. Current 5D-MRI motion models require long…
+**[IQ-JEPA: A Joint-Embedding Predictive Architecture with a Hermitian Vision Transformer for Sound Speed and Attenuation Estimation from Ultrasound IQ Data](https://arxiv.org/abs/2607.22351v1)**  
+_Masashi Sode, Gianmarco Pinton · 2026-07-24_  
+The speed of sound in tissue is a prerequisite for well-focused imaging and has diagnostic value, but recovering it from raw pulse-echo channel data is fundamentally a nonlinear inverse problem…
 
-**[Joint-decoupled iterative CBCT reconstruction with hybrid scatter estimation and voxel-adaptive beam hardening correction](https://arxiv.org/abs/2607.15812v1)**  
-_Jianing Sun, Jean Michel Létang, Qixiang Sun et al. · 2026-07-17_  
-Cone-beam computed tomography (CBCT) is fundamentally challenged by scatter and beam hardening artifacts, which originate from X-ray scattering and the polychromatic nature of the X-ray spectrum…
+**[A Dual Path Framework with Hotspot Guided Fusion for Three Dimensional CT to PET Synthesis in Head and Neck Cancer](https://arxiv.org/abs/2607.21800v1)**  
+_Mohd Maaz Khan, Oluwaseyi Oderinde · 2026-07-23_  
+18F-FDG PET/CT plays a central role in staging, treatment planning, and response assessment for head and neck cancer by providing functional information that complements anatomical CT imaging…
 
-**[Differentiable Cardiac Electrophysiology Simulations for Dynamical State and Parameter Estimation](https://arxiv.org/abs/2607.15492v1)**  
-_Adarsh Pashikanti, Shrey Chowdhary, Alex Ho et al. · 2026-07-16_  
-The heart's contractions are triggered by action potential waves, which propagate through the cardiac muscle and exhibit diverse spatio-temporal dynamics during different heart rhythms. The dynamics…
+**[Quantum Adaptive Sensing for Accelerated MRI](https://arxiv.org/abs/2607.21737v1)**  
+_Asmit Ganguly, Suprajit Dewanji, Chenyang Zhao et al. · 2026-07-23_  
+Compressed sensing accelerates MRI by reconstructing images from undersampled k-space, but performance depends strongly on sampling distribution. We propose an adaptive framework that selects…
 
-**[Flow in a porous non-axisymmetric annular conduit: Coupling wall compliance and peristalsis](https://arxiv.org/abs/2607.15239v1)**  
-_Nishanth Surianarayanan, Ivan C. Christov · 2026-07-16_  
-Coenen \textit{et al.}\ (\textit{J. Fluid Mech.}, vol.~921, 2021, p.~R2) developed a reduced-order model of peristaltic pumping in non-axisymmetric annular conduits with rigid walls, in the context…
+**[FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](https://arxiv.org/abs/2607.20382v1)**  
+_Eva McCord, Ernest Pedapati, Zag ElSayed · 2026-07-22_  
+Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in…
 
-**[One-for-All Adaptive Radiotherapy Planning Agent: A Foundation Framework for Daily CBCT-guided Radiotherapy](https://arxiv.org/abs/2607.14870v1)**  
-_Shaoyan Pan, Kirk Jon Luca, Yuan Gao et al. · 2026-07-16_  
-In this work, we introduce the One-for-All Adaptive Radiotherapy Planning Agent, a unified foundation-model-based system that performs complete, treatment-specific online adaptive planning directly…
+**[A simplified reconstruction of Positron Emission Tomography image using Time of Flight simulated data in Gate 10](https://arxiv.org/abs/2607.20169v1)**  
+_Marcin Balcerzyk, Santiago Jimenez-Serrano, Óscar Pietrzyk et al. · 2026-07-22_  
+Background: Ultrafast Time-of-Flight (TOF) information in Gate 10 simulations enables direct 3D PET reconstruction without scanner-specific modeling. Although such picosecond timing is not achievable…
 
-**[The Wulff bio-heat transfer model revisited: directional blood enthalpy transport, the biological Peclet number, and implications for laser-induced thermal therapy](https://arxiv.org/abs/2607.14017v1)**  
-_Valerio D'Alessandro, Matteo Falone, Luca Giammichele et al. · 2026-07-15_  
-Bio-heat transfer models play a fundamental role in predicting temperature fields during laser-induced thermal therapy (LITT). Among continuum bio-heat transfer models, the Pennes equation remains…
+**[PRIME-SVR: Physics-infoRmed Implicit Multi-Echo Slice-to-Volume Reconstruction for Fetal T2 mapping](https://arxiv.org/abs/2607.20136v1)**  
+_Busra Bulut, Maik Dannecker, Thomas Sanchez et al. · 2026-07-22_  
+Slice-to-volume reconstruction (SVR) is the standard method for obtaining high-resolution (HR) 3D fetal brain volumes from motion-corrupted 2D MRI slice stacks acquired in multiple orientations…
 
-_Updated: 2026-07-20 · source: arXiv physics.med-ph_
+_Updated: 2026-07-27 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
