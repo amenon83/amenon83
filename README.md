@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[IQ-JEPA: A Joint-Embedding Predictive Architecture with a Hermitian Vision Transformer for Sound Speed and Attenuation Estimation from Ultrasound IQ Data](https://arxiv.org/abs/2607.22351v1)**  
-_Masashi Sode, Gianmarco Pinton · 2026-07-24_  
-The speed of sound in tissue is a prerequisite for well-focused imaging and has diagnostic value, but recovering it from raw pulse-echo channel data is fundamentally a nonlinear inverse problem…
+**[CBCT-IQ: A Publicly Available Annotated Cone-Beam CT Dataset for Image Quality Assessment and Benchmarking](https://arxiv.org/abs/2607.29253v1)**  
+_Sepideh Hatamikia, Anna Breger, Clemens Karner et al. · 2026-07-31_  
+Medical image quality plays a critical role in diagnostic accuracy, especially in X-ray-based imaging modalities such as cone-beam computed tomography (CBCT), where image quality must be balanced…
 
-**[A Dual Path Framework with Hotspot Guided Fusion for Three Dimensional CT to PET Synthesis in Head and Neck Cancer](https://arxiv.org/abs/2607.21800v1)**  
-_Mohd Maaz Khan, Oluwaseyi Oderinde · 2026-07-23_  
-18F-FDG PET/CT plays a central role in staging, treatment planning, and response assessment for head and neck cancer by providing functional information that complements anatomical CT imaging…
+**[Intestinal peristalsis and wrinkling: A novel paradigm](https://arxiv.org/abs/2607.29204v1)**  
+_René Thierry Djoumessi, Christopher Miller, Nipuni D. Nagahawatte et al. · 2026-07-31_  
+A new computational framework for modeling the intestinal wall as a multi-layered fiber-reinforced continuum is presented. The framework reproduces for the first time physiological motility and…
 
-**[Quantum Adaptive Sensing for Accelerated MRI](https://arxiv.org/abs/2607.21737v1)**  
-_Asmit Ganguly, Suprajit Dewanji, Chenyang Zhao et al. · 2026-07-23_  
-Compressed sensing accelerates MRI by reconstructing images from undersampled k-space, but performance depends strongly on sampling distribution. We propose an adaptive framework that selects…
+**[MWF-MIMOSA for efficient simultaneous relaxometry and myelin water fraction mapping](https://arxiv.org/abs/2607.28984v1)**  
+_Yuting Chen, Yohan Jun, Hyeong-Geol Shin et al. · 2026-07-31_  
+Quantitative magnetic resonance imaging (qMRI) provides improved sensitivity and specificity to tissue composition and pathological alterations compared with conventional contrast-weighted imaging…
 
-**[FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](https://arxiv.org/abs/2607.20382v1)**  
-_Eva McCord, Ernest Pedapati, Zag ElSayed · 2026-07-22_  
-Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in…
+**[A reduced viscoelastic FDTD formulation for ultrasound-driven shear wave propagation in soft tissue](https://arxiv.org/abs/2607.28414v1)**  
+_Gianmarco Pinton · 2026-07-30_  
+Ultrasound-driven shear wave propagation in soft tissue underlies shear wave elastography (SWE) and emerging elastomechanical hypotheses of ultrasonic neuromodulation, both of which require accurate…
 
-**[A simplified reconstruction of Positron Emission Tomography image using Time of Flight simulated data in Gate 10](https://arxiv.org/abs/2607.20169v1)**  
-_Marcin Balcerzyk, Santiago Jimenez-Serrano, Óscar Pietrzyk et al. · 2026-07-22_  
-Background: Ultrafast Time-of-Flight (TOF) information in Gate 10 simulations enables direct 3D PET reconstruction without scanner-specific modeling. Although such picosecond timing is not achievable…
+**[Establishing an independent measurement traceability for 60-Co Air Kerma](https://arxiv.org/abs/2607.27875v1)**  
+_Néstor Cornejo-Díaz, Cristina García-Mulas, Paz Aviés-Lucas · 2026-07-30_  
+An independent air kerma traceability chain for $^{60}$Co radiation protection levels has been successfully established at the CIEMAT Ionizing Radiation Metrology Laboratory (LMRI-CIEMAT), based on…
 
-**[PRIME-SVR: Physics-infoRmed Implicit Multi-Echo Slice-to-Volume Reconstruction for Fetal T2 mapping](https://arxiv.org/abs/2607.20136v1)**  
-_Busra Bulut, Maik Dannecker, Thomas Sanchez et al. · 2026-07-22_  
-Slice-to-volume reconstruction (SVR) is the standard method for obtaining high-resolution (HR) 3D fetal brain volumes from motion-corrupted 2D MRI slice stacks acquired in multiple orientations…
+**[Bounded-Latency Spherical-Histogram Reconstruction for Compton Cameras](https://arxiv.org/abs/2607.27785v1)**  
+_Francisco J. Albiol, Luis Caballero, José Escalante et al. · 2026-07-30_  
+Gamma-ray imaging with Compton cameras is computationally demanding because conventional reconstruction retains the list-mode acquisition inside the inversion loop: event-dependent cone/voxel…
 
-_Updated: 2026-07-27 · source: arXiv physics.med-ph_
+_Updated: 2026-08-03 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
