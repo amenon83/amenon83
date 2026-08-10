@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[CBCT-IQ: A Publicly Available Annotated Cone-Beam CT Dataset for Image Quality Assessment and Benchmarking](https://arxiv.org/abs/2607.29253v1)**  
-_Sepideh Hatamikia, Anna Breger, Clemens Karner et al. · 2026-07-31_  
-Medical image quality plays a critical role in diagnostic accuracy, especially in X-ray-based imaging modalities such as cone-beam computed tomography (CBCT), where image quality must be balanced…
+**[An Angular Spectrum Method for Nonlinear Propagation in Heterogeneous Tissue with Immersed Sources for Ultrasound](https://arxiv.org/abs/2608.07389v1)**  
+_Gianmarco Pinton · 2026-08-07_  
+A modified angular spectrum method (ASM) is developed for three-dimensional nonlinear acoustic propagation through heterogeneous tissue, targeting transcranial and therapeutic ultrasound. First, a…
 
-**[Intestinal peristalsis and wrinkling: A novel paradigm](https://arxiv.org/abs/2607.29204v1)**  
-_René Thierry Djoumessi, Christopher Miller, Nipuni D. Nagahawatte et al. · 2026-07-31_  
-A new computational framework for modeling the intestinal wall as a multi-layered fiber-reinforced continuum is presented. The framework reproduces for the first time physiological motility and…
+**[Measurements Automatically Extracted from Zero Echo Time MRI Using Deep Learning Image Segmentation and Geometric Modeling Agree with Expert Manual Readings](https://arxiv.org/abs/2608.07368v1)**  
+_Jack Consolini, Eric A. Bogner, Meghan Sahr et al. · 2026-08-07_  
+Computed tomography (CT) remains the reference for 3D osseous morphometry in femoroacetabular impingement (FAI) but requires ionizing radiation and manual measurement. Zero echo time (ZTE) MRI…
 
-**[MWF-MIMOSA for efficient simultaneous relaxometry and myelin water fraction mapping](https://arxiv.org/abs/2607.28984v1)**  
-_Yuting Chen, Yohan Jun, Hyeong-Geol Shin et al. · 2026-07-31_  
-Quantitative magnetic resonance imaging (qMRI) provides improved sensitivity and specificity to tissue composition and pathological alterations compared with conventional contrast-weighted imaging…
+**[Machine Learning-Based Inter-Crystal Scatter Recovery for Ultra-High Resolution PET Imaging](https://arxiv.org/abs/2608.07155v1)**  
+_Alexandre Bernier, Roger Lecomte, Jean-Baptiste Michaud · 2026-08-07_  
+Inter-crystal scatter (ICS) events pose a significant challenge in ultrahigh- resolution positron emission tomography (UHR-PET), especially as detector crystals become smaller and their readouts…
 
-**[A reduced viscoelastic FDTD formulation for ultrasound-driven shear wave propagation in soft tissue](https://arxiv.org/abs/2607.28414v1)**  
-_Gianmarco Pinton · 2026-07-30_  
-Ultrasound-driven shear wave propagation in soft tissue underlies shear wave elastography (SWE) and emerging elastomechanical hypotheses of ultrasonic neuromodulation, both of which require accurate…
+**[Lens-Aware Differentiable Beamforming for In Vivo Distributed Aberration Correction with Curvilinear Transducers](https://arxiv.org/abs/2608.06853v1)**  
+_Benjamin N. Frey, Robin van Velzen, Hoda S. Hashemi et al. · 2026-08-07_  
+This work extends ultrasound autofocusing via common midpoint phase error optimization to support curvilinear array geometries. Iterative model-based aberration correction via local sound speed…
 
-**[Establishing an independent measurement traceability for 60-Co Air Kerma](https://arxiv.org/abs/2607.27875v1)**  
-_Néstor Cornejo-Díaz, Cristina García-Mulas, Paz Aviés-Lucas · 2026-07-30_  
-An independent air kerma traceability chain for $^{60}$Co radiation protection levels has been successfully established at the CIEMAT Ionizing Radiation Metrology Laboratory (LMRI-CIEMAT), based on…
+**[108 ps coincidence time resolution through optimized scintillators, photodetectors, readout electronics, and DOI-based timing correction in orthogonally stacked detector configurations](https://arxiv.org/abs/2608.06746v1)**  
+_Arisa Sanzen, Yuya Onishi, Takahiro Moriya et al. · 2026-08-07_  
+Objective. Existing commercial time-of-flight positron emission tomography (TOF-PET) systems yield a coincidence time resolution (CTR) of ~200 ps or less full width at half maximum (FWHM). Recently…
 
-**[Bounded-Latency Spherical-Histogram Reconstruction for Compton Cameras](https://arxiv.org/abs/2607.27785v1)**  
-_Francisco J. Albiol, Luis Caballero, José Escalante et al. · 2026-07-30_  
-Gamma-ray imaging with Compton cameras is computationally demanding because conventional reconstruction retains the list-mode acquisition inside the inversion loop: event-dependent cone/voxel…
+**[An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics](https://arxiv.org/abs/2608.06321v1)**  
+_Gianmarco Pinton · 2026-08-06_  
+Transcranial focused ultrasound is a non-invasive neuromodulation modality with millimetre-scale resolution, but its biophysical mechanism of action remains unresolved. Exposure is conventionally…
 
-_Updated: 2026-08-03 · source: arXiv physics.med-ph_
+_Updated: 2026-08-10 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
