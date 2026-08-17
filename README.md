@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[An Angular Spectrum Method for Nonlinear Propagation in Heterogeneous Tissue with Immersed Sources for Ultrasound](https://arxiv.org/abs/2608.07389v1)**  
-_Gianmarco Pinton · 2026-08-07_  
-A modified angular spectrum method (ASM) is developed for three-dimensional nonlinear acoustic propagation through heterogeneous tissue, targeting transcranial and therapeutic ultrasound. First, a…
+**[UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI](https://arxiv.org/abs/2608.14422v1)**  
+_Mahdi Saberi, Toygan Kiliç, Mehmet Akçakaya · 2026-08-14_  
+MRI reconstruction from undersampled k-space measurements is an ill-posed inverse problem. Physics-driven deep learning (PD-DL) methods have shown strong performance for this task by combining the…
 
-**[Measurements Automatically Extracted from Zero Echo Time MRI Using Deep Learning Image Segmentation and Geometric Modeling Agree with Expert Manual Readings](https://arxiv.org/abs/2608.07368v1)**  
-_Jack Consolini, Eric A. Bogner, Meghan Sahr et al. · 2026-08-07_  
-Computed tomography (CT) remains the reference for 3D osseous morphometry in femoroacetabular impingement (FAI) but requires ionizing radiation and manual measurement. Zero echo time (ZTE) MRI…
+**[MRI-guided cardiac radiotherapy using a 1.5 T MR-linac: surveying emerging patterns of care](https://arxiv.org/abs/2608.14213v1)**  
+_O. Akdag, S. Mandija, J. Pomp et al. · 2026-08-14_  
+Background: Cardiac tumours are rare and treated by surgical resections, which are complex, invasive and carry procedural risks. MRI-guided radiotherapy (MRgRT) noninvasively facilitates conformal…
 
-**[Machine Learning-Based Inter-Crystal Scatter Recovery for Ultra-High Resolution PET Imaging](https://arxiv.org/abs/2608.07155v1)**  
-_Alexandre Bernier, Roger Lecomte, Jean-Baptiste Michaud · 2026-08-07_  
-Inter-crystal scatter (ICS) events pose a significant challenge in ultrahigh- resolution positron emission tomography (UHR-PET), especially as detector crystals become smaller and their readouts…
+**[Birth of the Coil: another Milestone towards a fully reproducible low-field MRI scanner for head-imaging](https://arxiv.org/abs/2608.14139v1)**  
+_Umberto Zanovello, Julia Pfitzer, Ariane Ernst et al. · 2026-08-14_  
+Low-field magnetic resonance imaging (MRI) provides an accessible, portable, and low-cost alternative to high-field scanners, expanding diagnostic imaging to point-of-care settings. However…
 
-**[Lens-Aware Differentiable Beamforming for In Vivo Distributed Aberration Correction with Curvilinear Transducers](https://arxiv.org/abs/2608.06853v1)**  
-_Benjamin N. Frey, Robin van Velzen, Hoda S. Hashemi et al. · 2026-08-07_  
-This work extends ultrasound autofocusing via common midpoint phase error optimization to support curvilinear array geometries. Iterative model-based aberration correction via local sound speed…
+**[Focal-point scanning for dose delivery and optimization with focused laser-accelerated very-high-energy electron beams](https://arxiv.org/abs/2608.13919v1)**  
+_Zhiyuan Guo, Yifei Pi, Junwei Zhou et al. · 2026-08-14_  
+Focused very-high-energy electron (VHEE) beams can produce localized dose enhancement at selected depths, but irradiation of a finite target requires coordinated control of multiple focal positions…
 
-**[108 ps coincidence time resolution through optimized scintillators, photodetectors, readout electronics, and DOI-based timing correction in orthogonally stacked detector configurations](https://arxiv.org/abs/2608.06746v1)**  
-_Arisa Sanzen, Yuya Onishi, Takahiro Moriya et al. · 2026-08-07_  
-Objective. Existing commercial time-of-flight positron emission tomography (TOF-PET) systems yield a coincidence time resolution (CTR) of ~200 ps or less full width at half maximum (FWHM). Recently…
+**[Label-Free Deep-Tissue Peripheral Nerve Detection with a Handheld Multimodal OCT Probe and NerveDetNet](https://arxiv.org/abs/2608.13807v1)**  
+_Yihan Wang, Ruilin You, Shaobai Li et al. · 2026-08-13_  
+Peripheral nerves buried beneath intact tissue are difficult to visualize during surgery and remain inaccessible to white light wide-field imaging and other surface optical imaging methods. Existing…
 
-**[An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics](https://arxiv.org/abs/2608.06321v1)**  
-_Gianmarco Pinton · 2026-08-06_  
-Transcranial focused ultrasound is a non-invasive neuromodulation modality with millimetre-scale resolution, but its biophysical mechanism of action remains unresolved. Exposure is conventionally…
+**[Fully fiber-integrated endoscopic OCT probes by single-step two-photon 3D printing](https://arxiv.org/abs/2608.13772v1)**  
+_Yihan Wang, Ruilin You, Jiabin Chen et al. · 2026-08-13_  
+Optical coherence tomography (OCT) provides depth-resolved, label-free imaging of microstructure and has become a central modality for optical biopsy. Bringing this capability from bench-top…
 
-_Updated: 2026-08-10 · source: arXiv physics.med-ph_
+_Updated: 2026-08-17 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
