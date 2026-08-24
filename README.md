@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI](https://arxiv.org/abs/2608.14422v1)**  
-_Mahdi Saberi, Toygan Kiliç, Mehmet Akçakaya · 2026-08-14_  
-MRI reconstruction from undersampled k-space measurements is an ill-posed inverse problem. Physics-driven deep learning (PD-DL) methods have shown strong performance for this task by combining the…
+**[Consistency Models for Fast MRI Reconstruction Using Regularization by Denoising](https://arxiv.org/abs/2608.20561v1)**  
+_Merve Gülle, Junno Yun, Yaşar Utku Alçalar et al. · 2026-08-20_  
+Diffusion models (DMs) have emerged as powerful generative priors for MRI reconstruction with promising results. Yet DM-based methods require extensive iterative refinement, limiting their practical…
 
-**[MRI-guided cardiac radiotherapy using a 1.5 T MR-linac: surveying emerging patterns of care](https://arxiv.org/abs/2608.14213v1)**  
-_O. Akdag, S. Mandija, J. Pomp et al. · 2026-08-14_  
-Background: Cardiac tumours are rare and treated by surgical resections, which are complex, invasive and carry procedural risks. MRI-guided radiotherapy (MRgRT) noninvasively facilitates conformal…
+**[An integrated diffusion-weighted imaging processing and interpretation platform for MR-guided radiotherapy](https://arxiv.org/abs/2608.20519v1)**  
+_Yunxiang Li, Yan Dai, Yen-Peng Liao et al. · 2026-08-20_  
+Background: Magnetic resonance imaging-guided linear accelerators (MR-Linacs) allow diffusion-weighted imaging (DWI) to be acquired at every treatment fraction, but converting these…
 
-**[Birth of the Coil: another Milestone towards a fully reproducible low-field MRI scanner for head-imaging](https://arxiv.org/abs/2608.14139v1)**  
-_Umberto Zanovello, Julia Pfitzer, Ariane Ernst et al. · 2026-08-14_  
-Low-field magnetic resonance imaging (MRI) provides an accessible, portable, and low-cost alternative to high-field scanners, expanding diagnostic imaging to point-of-care settings. However…
+**[Flow Matching-Based PET Image Reconstruction](https://arxiv.org/abs/2608.20112v1)**  
+_Fumio Hashimoto, Ziqian Huang, Tatsuya Yokota et al. · 2026-08-20_  
+Generative models have shown strong potential for positron emission tomography (PET) image reconstruction. Although diffusion model-based reconstruction methods have demonstrated promising…
 
-**[Focal-point scanning for dose delivery and optimization with focused laser-accelerated very-high-energy electron beams](https://arxiv.org/abs/2608.13919v1)**  
-_Zhiyuan Guo, Yifei Pi, Junwei Zhou et al. · 2026-08-14_  
-Focused very-high-energy electron (VHEE) beams can produce localized dose enhancement at selected depths, but irradiation of a finite target requires coordinated control of multiple focal positions…
+**[Simultaneous 3D co-registered perfusion and oxygenation with ULM, photoacoustic imaging, and a planar matrix array](https://arxiv.org/abs/2608.19823v1)**  
+_Léa Davenet, Jacques Battaglia, Franck Lager et al. · 2026-08-20_  
+Objective. Joint assessment of tissue oxygenation and microvascular perfusion could offer valuable insights into vascular function across a wide range of biomedical applications. Multispectral…
 
-**[Label-Free Deep-Tissue Peripheral Nerve Detection with a Handheld Multimodal OCT Probe and NerveDetNet](https://arxiv.org/abs/2608.13807v1)**  
-_Yihan Wang, Ruilin You, Shaobai Li et al. · 2026-08-13_  
-Peripheral nerves buried beneath intact tissue are difficult to visualize during surgery and remain inaccessible to white light wide-field imaging and other surface optical imaging methods. Existing…
+**[A Reference System for Open Source Portable Low-Field MRI](https://arxiv.org/abs/2608.19062v2)**  
+_David Schote, Helge Herthum, Umberto Zanovello et al. · 2026-08-19_  
+Despite its renewed attention, the pathway to point-of-care portable low-field MRI systems remains challenging, limiting adoption across research groups. Incomplete documentation limits…
 
-**[Fully fiber-integrated endoscopic OCT probes by single-step two-photon 3D printing](https://arxiv.org/abs/2608.13772v1)**  
-_Yihan Wang, Ruilin You, Jiabin Chen et al. · 2026-08-13_  
-Optical coherence tomography (OCT) provides depth-resolved, label-free imaging of microstructure and has become a central modality for optical biopsy. Bringing this capability from bench-top…
+**[Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation](https://arxiv.org/abs/2608.18867v1)**  
+_Jakob Schattenfroh, Michael Fedders, Steffen P. Häseli et al. · 2026-08-19_  
+Magnetic resonance elastography (MRE) is established for noninvasive assessment of liver fibrosis. Conventional abdominal MRE is typically limited to 40-60 Hz. Lower frequencies remain largely…
 
-_Updated: 2026-08-17 · source: arXiv physics.med-ph_
+_Updated: 2026-08-24 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
