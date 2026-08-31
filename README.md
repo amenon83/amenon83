@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Consistency Models for Fast MRI Reconstruction Using Regularization by Denoising](https://arxiv.org/abs/2608.20561v1)**  
-_Merve Gülle, Junno Yun, Yaşar Utku Alçalar et al. · 2026-08-20_  
-Diffusion models (DMs) have emerged as powerful generative priors for MRI reconstruction with promising results. Yet DM-based methods require extensive iterative refinement, limiting their practical…
+**[Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry](https://arxiv.org/abs/2608.28275v1)**  
+_Thomas Zillhardt, Yunhui Chen, Alexander Rack et al. · 2026-08-28_  
+We present F3CT, a synchrotron-based hyperspectral full-field fluorescence computed tomography technique that avoids raster scanning by combining a pinhole aperture with an energy-resolving 2D…
 
-**[An integrated diffusion-weighted imaging processing and interpretation platform for MR-guided radiotherapy](https://arxiv.org/abs/2608.20519v1)**  
-_Yunxiang Li, Yan Dai, Yen-Peng Liao et al. · 2026-08-20_  
-Background: Magnetic resonance imaging-guided linear accelerators (MR-Linacs) allow diffusion-weighted imaging (DWI) to be acquired at every treatment fraction, but converting these…
+**[Physics-Assisted Deep Learning Denoising for Stabilized IMPULSED dMRI Microenvironment Parameter Fitting](https://arxiv.org/abs/2608.27681v1)**  
+_Wen Li, Yan Dai, Arely Perez Rodriguez et al. · 2026-08-27_  
+Diffusion-weighted MRI (dMRI) is a powerful tool for quantifying cellular microenvironment parameters. This study proposes a physics-assisted deep learning (DL)-based denoising framework designed to…
 
-**[Flow Matching-Based PET Image Reconstruction](https://arxiv.org/abs/2608.20112v1)**  
-_Fumio Hashimoto, Ziqian Huang, Tatsuya Yokota et al. · 2026-08-20_  
-Generative models have shown strong potential for positron emission tomography (PET) image reconstruction. Although diffusion model-based reconstruction methods have demonstrated promising…
+**[Constrained estimation of rotational invariants of the cumulant expansion (RICE) for rapid tensor-valued diffusion MRI](https://arxiv.org/abs/2608.27212v1)**  
+_Jinyang Yu, Oliver Gödicke, Frederik B. Laun et al. · 2026-08-27_  
+Purpose: To complement 1.5-minute measurements of common tensor-valued diffusion MRI (dMRI) markers with rapid constrained fitting. Methods: Fast dMRI protocols for obtaining rotational invariants of…
 
-**[Simultaneous 3D co-registered perfusion and oxygenation with ULM, photoacoustic imaging, and a planar matrix array](https://arxiv.org/abs/2608.19823v1)**  
-_Léa Davenet, Jacques Battaglia, Franck Lager et al. · 2026-08-20_  
-Objective. Joint assessment of tissue oxygenation and microvascular perfusion could offer valuable insights into vascular function across a wide range of biomedical applications. Multispectral…
+**[Dose-PlanNet: Physics Based Radiotherapy Dose Prediction with Deep Learning](https://arxiv.org/abs/2608.26901v1)**  
+_Ankit Bhattacharjee, Sougata Maity, Santam Chakraborty et al. · 2026-08-27_  
+Automating prostate radiotherapy treatment planning is dosimetrically complex, particularly for extreme hypofractionated regimens. In this study, we introduce Dose-PlanNet, a physics-guided 3D deep…
 
-**[A Reference System for Open Source Portable Low-Field MRI](https://arxiv.org/abs/2608.19062v2)**  
-_David Schote, Helge Herthum, Umberto Zanovello et al. · 2026-08-19_  
-Despite its renewed attention, the pathway to point-of-care portable low-field MRI systems remains challenging, limiting adoption across research groups. Incomplete documentation limits…
+**[Sparse Delta Integration method for the calculation of spatiotemporal pressure fields of arbitrary ultrasound transducer geometries](https://arxiv.org/abs/2608.26891v1)**  
+_Deyver E. Rivera, Charlie Demene, Mickael Tanter · 2026-08-27_  
+Accurate and efficient simulation of ultrasound pressure fields and pulse-echo responses is essential for transducer design, beamforming optimization, and model-based imaging research. Conventional…
 
-**[Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation](https://arxiv.org/abs/2608.18867v1)**  
-_Jakob Schattenfroh, Michael Fedders, Steffen P. Häseli et al. · 2026-08-19_  
-Magnetic resonance elastography (MRE) is established for noninvasive assessment of liver fibrosis. Conventional abdominal MRE is typically limited to 40-60 Hz. Lower frequencies remain largely…
+**[Adapting the TG-43 formalism for use in Diffusing alpha-emitters Radiation Therapy](https://arxiv.org/abs/2608.26330v1)**  
+_Guy Heger, Lior Epstein, Lior Arazi · 2026-08-26_  
+Background: Diffusing alpha-emitters Radiation Therapy ("Alpha DaRT") enables the treatment of solid tumors using alpha particles. In Alpha DaRT, the tumor dose distribution is mainly dictated by the…
 
-_Updated: 2026-08-24 · source: arXiv physics.med-ph_
+_Updated: 2026-08-31 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
