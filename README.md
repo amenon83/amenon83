@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Full-field fluorescence computed tomography (F3CT) using a calibrated virtual cone-beam pinhole geometry](https://arxiv.org/abs/2608.28275v1)**  
-_Thomas Zillhardt, Yunhui Chen, Alexander Rack et al. · 2026-08-28_  
-We present F3CT, a synchrotron-based hyperspectral full-field fluorescence computed tomography technique that avoids raster scanning by combining a pinhole aperture with an energy-resolving 2D…
+**[Attention-guided super-resolution of 4D flow MRI in carotid arteries](https://arxiv.org/abs/2609.04891v1)**  
+_Ali Mokhtari, Dominik Obrist · 2026-09-04_  
+Four-dimensional (4D) flow magnetic resonance imaging (MRI) is a powerful non-invasive technique for visualizing and quantifying complex blood flow patterns in vivo. Despite its clinical promise…
 
-**[Physics-Assisted Deep Learning Denoising for Stabilized IMPULSED dMRI Microenvironment Parameter Fitting](https://arxiv.org/abs/2608.27681v1)**  
-_Wen Li, Yan Dai, Arely Perez Rodriguez et al. · 2026-08-27_  
-Diffusion-weighted MRI (dMRI) is a powerful tool for quantifying cellular microenvironment parameters. This study proposes a physics-assisted deep learning (DL)-based denoising framework designed to…
+**[BEAM3R: Beam's-eye-view architecture with Mamba-3 for implicit dose reconstruction](https://arxiv.org/abs/2609.04747v1)**  
+_Chen Cheng, Michael Ferraro, James Grover et al. · 2026-09-04_  
+To enable accurate and rapid photon control point and proton beamlet dose calculation in the DoseRAD2026 challenge, we present BEAM3R, a dose estimation framework operating in beam's-eye-view (BEV)…
 
-**[Constrained estimation of rotational invariants of the cumulant expansion (RICE) for rapid tensor-valued diffusion MRI](https://arxiv.org/abs/2608.27212v1)**  
-_Jinyang Yu, Oliver Gödicke, Frederik B. Laun et al. · 2026-08-27_  
-Purpose: To complement 1.5-minute measurements of common tensor-valued diffusion MRI (dMRI) markers with rapid constrained fitting. Methods: Fast dMRI protocols for obtaining rotational invariants of…
+**[3D scattered light imaging: extracting 3D fiber orientations from 1D line profiles in brain imaging](https://arxiv.org/abs/2609.03764v1)**  
+_Dennis Scheidt, Charlotte Voß, Cristian Rosero Arias et al. · 2026-09-03_  
+Understanding the 3D fiber architecture of the brain at the microscopic scale is essential for revealing its structural connectivity and function. Polarization-based optical imaging (3D-PLI)…
 
-**[Dose-PlanNet: Physics Based Radiotherapy Dose Prediction with Deep Learning](https://arxiv.org/abs/2608.26901v1)**  
-_Ankit Bhattacharjee, Sougata Maity, Santam Chakraborty et al. · 2026-08-27_  
-Automating prostate radiotherapy treatment planning is dosimetrically complex, particularly for extreme hypofractionated regimens. In this study, we introduce Dose-PlanNet, a physics-guided 3D deep…
+**[HPC Modeling of Coupled Elastic-Acoustic Wave Propagation in Biological Media: Numerical Validation](https://arxiv.org/abs/2609.03644v1)**  
+_Fawad Ali, Carlos García, Lapo Boschi · 2026-09-03_  
+Accurate numerical models of sound propagation through biological media are an important tool for many applications, from medical physics to studying the auditory system of humans or other animals…
 
-**[Sparse Delta Integration method for the calculation of spatiotemporal pressure fields of arbitrary ultrasound transducer geometries](https://arxiv.org/abs/2608.26891v1)**  
-_Deyver E. Rivera, Charlie Demene, Mickael Tanter · 2026-08-27_  
-Accurate and efficient simulation of ultrasound pressure fields and pulse-echo responses is essential for transducer design, beamforming optimization, and model-based imaging research. Conventional…
+**[Fast Patient-Specific Breast CT Dosimetry: 22-Fold Acceleration of Monte Carlo MGD Estimation](https://arxiv.org/abs/2609.03263v1)**  
+_Amir Entezam, Ashkan Pakzad, Christopher J. Hall et al. · 2026-09-03_  
+Accurate patient-specific mean glandular dose (MGD) estimation in breast computed tomography (BCT) requires anatomically realistic models, but high-resolution patient-derived phantoms impose high…
 
-**[Adapting the TG-43 formalism for use in Diffusing alpha-emitters Radiation Therapy](https://arxiv.org/abs/2608.26330v1)**  
-_Guy Heger, Lior Epstein, Lior Arazi · 2026-08-26_  
-Background: Diffusing alpha-emitters Radiation Therapy ("Alpha DaRT") enables the treatment of solid tumors using alpha particles. In Alpha DaRT, the tumor dose distribution is mainly dictated by the…
+**[Improving Clinical Target Volume Segmentation Accuracy using Anatomical Priors and Active Learning for the AGITG TOPGEAR Clinical Trial](https://arxiv.org/abs/2609.03186v1)**  
+_Phillip Chlap, Mark Lee, Trevor Leong et al. · 2026-09-02_  
+Training deep learning-based medical image segmentation models is challenging with limited curated datasets. For AGITG TOPGEAR, a gastric cancer trial, the Clinical Target Volume (CTV) is complex and…
 
-_Updated: 2026-08-31 · source: arXiv physics.med-ph_
+_Updated: 2026-09-07 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
