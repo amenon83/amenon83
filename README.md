@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Attention-guided super-resolution of 4D flow MRI in carotid arteries](https://arxiv.org/abs/2609.04891v1)**  
-_Ali Mokhtari, Dominik Obrist · 2026-09-04_  
-Four-dimensional (4D) flow magnetic resonance imaging (MRI) is a powerful non-invasive technique for visualizing and quantifying complex blood flow patterns in vivo. Despite its clinical promise…
+**[Numerical Simulation of Electrical Properties in Cortical and Trabecular Bone: A Simplified Model](https://arxiv.org/abs/2609.31584v1)**  
+_María José Cervantes, Catalina A. Cely-Ortíz, C. Manuel Carlevaro et al. · 2026-09-25_  
+The electrical properties of biological tissues depend on their composition and microstructure and determine their response to applied electric fields. In bone tissue, these properties are closely…
 
-**[BEAM3R: Beam's-eye-view architecture with Mamba-3 for implicit dose reconstruction](https://arxiv.org/abs/2609.04747v1)**  
-_Chen Cheng, Michael Ferraro, James Grover et al. · 2026-09-04_  
-To enable accurate and rapid photon control point and proton beamlet dose calculation in the DoseRAD2026 challenge, we present BEAM3R, a dose estimation framework operating in beam's-eye-view (BEV)…
+**[Improving Multi-Delay-ASL through specialized reconstruction](https://arxiv.org/abs/2609.30923v1)**  
+_Ingmar Sorgenfrei, Qinyang Shou, Ingrid Barth et al. · 2026-09-25_  
+Purpose: Although image reconstruction has received relatively little attention in ASL research to date, it has the potential to address several challenges in ASL. As well as speeding up measurements…
 
-**[3D scattered light imaging: extracting 3D fiber orientations from 1D line profiles in brain imaging](https://arxiv.org/abs/2609.03764v1)**  
-_Dennis Scheidt, Charlotte Voß, Cristian Rosero Arias et al. · 2026-09-03_  
-Understanding the 3D fiber architecture of the brain at the microscopic scale is essential for revealing its structural connectivity and function. Polarization-based optical imaging (3D-PLI)…
+**[A 2D autocorrelation-based frequency estimator reflecting spatial tissue distribution to improve Ultrasound H-scan tissue characterization](https://arxiv.org/abs/2609.30686v1)**  
+_Jihye Baek, Thurston Brevett, Dongwoon Hyun et al. · 2026-09-25_  
+H-scan is a promising quantitative ultrasound technique that estimates the frequency content of backscattered signals and maps the estimated frequencies onto a red/blue color scale to reflect…
 
-**[HPC Modeling of Coupled Elastic-Acoustic Wave Propagation in Biological Media: Numerical Validation](https://arxiv.org/abs/2609.03644v1)**  
-_Fawad Ali, Carlos García, Lapo Boschi · 2026-09-03_  
-Accurate numerical models of sound propagation through biological media are an important tool for many applications, from medical physics to studying the auditory system of humans or other animals…
+**[MBFormer: Microbubble Transformer for 3D Time-Series Da-ta Processing to Improve Bound Bubble Detection in Nonde-structive Ultrasound Molecular Imaging](https://arxiv.org/abs/2609.30618v1)**  
+_Jihye Baek, Jeong Hoon Lee, Hoda Hashemi et al. · 2026-09-24_  
+Development of nondestructive ultrasound molecular imaging (UMI) is essential for early cancer detection through real-time screening using clinical ultrasound systems. Current techniques face…
 
-**[Fast Patient-Specific Breast CT Dosimetry: 22-Fold Acceleration of Monte Carlo MGD Estimation](https://arxiv.org/abs/2609.03263v1)**  
-_Amir Entezam, Ashkan Pakzad, Christopher J. Hall et al. · 2026-09-03_  
-Accurate patient-specific mean glandular dose (MGD) estimation in breast computed tomography (BCT) requires anatomically realistic models, but high-resolution patient-derived phantoms impose high…
+**[PGDM-MRSRGAN: Physics-Guided Degradation Model with an SRGAN Framework for Magnetic Resonance Image Super-Resolution: Applications in Low-Field MRI](https://arxiv.org/abs/2609.30431v1)**  
+_Yashwant Kurmi, Charlotte R. Sappo, Sai Abitha Srinivas et al. · 2026-09-24_  
+Magnetic Resonance Imaging (MRI) often suffers from low signal-to-noise ratio (SNR) and limited spatial resolution, which compromise clinical precision. This study aims to address these challenges by…
 
-**[Improving Clinical Target Volume Segmentation Accuracy using Anatomical Priors and Active Learning for the AGITG TOPGEAR Clinical Trial](https://arxiv.org/abs/2609.03186v1)**  
-_Phillip Chlap, Mark Lee, Trevor Leong et al. · 2026-09-02_  
-Training deep learning-based medical image segmentation models is challenging with limited curated datasets. For AGITG TOPGEAR, a gastric cancer trial, the Clinical Target Volume (CTV) is complex and…
+**[Cone-beam artifact reduction in Gamma Knife CBCT images using a line-arc-line scan trajectory](https://arxiv.org/abs/2609.30169v1)**  
+_Alexandra Alain-Beaudoin, Håkan Nordström, Luc Beaulieu et al. · 2026-09-24_  
+Objective. Gamma Knife cone-beam computed tomography (CBCT) images suffer from distinct cone-beam artifacts for some patients, due to the conical X-ray beam which is oriented to intersect the…
 
-_Updated: 2026-09-07 · source: arXiv physics.med-ph_
+_Updated: 2026-09-28 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
