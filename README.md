@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Numerical Simulation of Electrical Properties in Cortical and Trabecular Bone: A Simplified Model](https://arxiv.org/abs/2609.31584v1)**  
-_María José Cervantes, Catalina A. Cely-Ortíz, C. Manuel Carlevaro et al. · 2026-09-25_  
-The electrical properties of biological tissues depend on their composition and microstructure and determine their response to applied electric fields. In bone tissue, these properties are closely…
+**[MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI](https://arxiv.org/abs/2610.02136v1)**  
+_Negin Kafee Hernashki, Soumick Chatterjee · 2026-10-01_  
+Unsupervised anomaly detection (UAD) methods for brain MRI are ranked by a single score, yet that score rests on choices that are rarely reported: how each anomaly map is aligned with the reference…
 
-**[Improving Multi-Delay-ASL through specialized reconstruction](https://arxiv.org/abs/2609.30923v1)**  
-_Ingmar Sorgenfrei, Qinyang Shou, Ingrid Barth et al. · 2026-09-25_  
-Purpose: Although image reconstruction has received relatively little attention in ASL research to date, it has the potential to address several challenges in ASL. As well as speeding up measurements…
+**[Diffusion broadening of the point spread function in steady-state MRI](https://arxiv.org/abs/2610.02132v2)**  
+_Bibek Dhakal, John C. Gore · 2026-10-01_  
+Purpose: To demonstrate how diffusion blurs the longitudinal magnetization in steady-state gradient-echo imaging, quantify resolution dependence on flip angle and repetition time, and the effects on…
 
-**[A 2D autocorrelation-based frequency estimator reflecting spatial tissue distribution to improve Ultrasound H-scan tissue characterization](https://arxiv.org/abs/2609.30686v1)**  
-_Jihye Baek, Thurston Brevett, Dongwoon Hyun et al. · 2026-09-25_  
-H-scan is a promising quantitative ultrasound technique that estimates the frequency content of backscattered signals and maps the estimated frequencies onto a red/blue color scale to reflect…
+**[Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography](https://arxiv.org/abs/2610.01930v1)**  
+_Luca A. Forte · 2026-10-01_  
+Ultrasound computed tomography is emerging as a promising diagnostic imaging tool. 2D geometries suffer from notorious out-of-plane scattering artifacts. Image reconstruction can be achieved with…
 
-**[MBFormer: Microbubble Transformer for 3D Time-Series Da-ta Processing to Improve Bound Bubble Detection in Nonde-structive Ultrasound Molecular Imaging](https://arxiv.org/abs/2609.30618v1)**  
-_Jihye Baek, Jeong Hoon Lee, Hoda Hashemi et al. · 2026-09-24_  
-Development of nondestructive ultrasound molecular imaging (UMI) is essential for early cancer detection through real-time screening using clinical ultrasound systems. Current techniques face…
+**[AnatomIQ: An Open-Source Toolkit for Automated Background Detection in Medical Imaging](https://arxiv.org/abs/2610.01686v1)**  
+_Rafael Carballeira, Hayley A. Cash, Marthony L. Robins · 2026-10-01_  
+Manual background selection for contrast-to-noise ratio (CNR) calculations in CT image quality assessment is time-consuming, operator-dependent, and compromises reproducibility. Advanced metrics such…
 
-**[PGDM-MRSRGAN: Physics-Guided Degradation Model with an SRGAN Framework for Magnetic Resonance Image Super-Resolution: Applications in Low-Field MRI](https://arxiv.org/abs/2609.30431v1)**  
-_Yashwant Kurmi, Charlotte R. Sappo, Sai Abitha Srinivas et al. · 2026-09-24_  
-Magnetic Resonance Imaging (MRI) often suffers from low signal-to-noise ratio (SNR) and limited spatial resolution, which compromise clinical precision. This study aims to address these challenges by…
+**[Quiet, rapid 3D multiparametric mapping using magnetization-prepared zero echo time MRI](https://arxiv.org/abs/2610.01330v1)**  
+_Alireza Samadifardheris, Shishuai Wang, Ana Beatriz Solana et al. · 2026-10-01_  
+Purpose: To introduce and evaluate MuPa-ZTE, a quiet, rapid 3D framework combining native and magnetization-prepared zero echo time (ZTE) acquisitions for multiparametric mapping. Methods: MuPa-ZTE…
 
-**[Cone-beam artifact reduction in Gamma Knife CBCT images using a line-arc-line scan trajectory](https://arxiv.org/abs/2609.30169v1)**  
-_Alexandra Alain-Beaudoin, Håkan Nordström, Luc Beaulieu et al. · 2026-09-24_  
-Objective. Gamma Knife cone-beam computed tomography (CBCT) images suffer from distinct cone-beam artifacts for some patients, due to the conical X-ray beam which is oriented to intersect the…
+**[Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers](https://arxiv.org/abs/2609.39184v1)**  
+_Sebastian Endt, Marcus Wirth, Johannes Reinhold Schlund et al. · 2026-09-30_  
+Fiber orientation and compartmental microstructure are central to the characterization of white matter tissue in diffusion MRI, yet existing methods either resolve fiber orientations without…
 
-_Updated: 2026-09-28 · source: arXiv physics.med-ph_
+_Updated: 2026-10-05 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
