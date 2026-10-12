@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI](https://arxiv.org/abs/2610.02136v1)**  
-_Negin Kafee Hernashki, Soumick Chatterjee · 2026-10-01_  
-Unsupervised anomaly detection (UAD) methods for brain MRI are ranked by a single score, yet that score rests on choices that are rarely reported: how each anomaly map is aligned with the reference…
+**[Warm-IP: A Path-Following ADMM Warm Start for Interior-Point Quadratic Programming](https://arxiv.org/abs/2610.13805v1)**  
+_Babak Aslani, Mojtaba Tefagh, Gourav Jhanwar et al. · 2026-10-09_  
+Interior-point (IP) methods are powerful second-order optimization algorithms but can make slow progress during early iterations. We propose Warm-IP, a hybrid framework that combines a path-following…
 
-**[Diffusion broadening of the point spread function in steady-state MRI](https://arxiv.org/abs/2610.02132v2)**  
-_Bibek Dhakal, John C. Gore · 2026-10-01_  
-Purpose: To demonstrate how diffusion blurs the longitudinal magnetization in steady-state gradient-echo imaging, quantify resolution dependence on flip angle and repetition time, and the effects on…
+**[An anatomically grounded human-scale dynamic model of contraction-driven lymphatic pumping](https://arxiv.org/abs/2610.12760v1)**  
+_Chia-Feng Chang, Ayemon Baraka, Egor Sidorov et al. · 2026-10-08_  
+Lymphangions, the valved muscular segments of lymphatic vessels, pump lymph against an adverse pressure gradient. Current models resolve this pumping in one vessel, a short chain or a regional…
 
-**[Towards 3D fully randomized frequency-domain reconstruction of the speed of sound in breast ultrasound computed tomography](https://arxiv.org/abs/2610.01930v1)**  
-_Luca A. Forte · 2026-10-01_  
-Ultrasound computed tomography is emerging as a promising diagnostic imaging tool. 2D geometries suffer from notorious out-of-plane scattering artifacts. Image reconstruction can be achieved with…
+**[An anatomically grounded human-scale steady hydraulic model of the lymphatic network](https://arxiv.org/abs/2610.12750v1)**  
+_Chia-Feng Chang, Ayemon Baraka, Egor Sidorov et al. · 2026-10-08_  
+The lymphatic system returns 2 to 3 L of interstitial fluid per day to the venous circulation and drains the central nervous system. Most models of lymph transport describe one lymphangion or a short…
 
-**[AnatomIQ: An Open-Source Toolkit for Automated Background Detection in Medical Imaging](https://arxiv.org/abs/2610.01686v1)**  
-_Rafael Carballeira, Hayley A. Cash, Marthony L. Robins · 2026-10-01_  
-Manual background selection for contrast-to-noise ratio (CNR) calculations in CT image quality assessment is time-consuming, operator-dependent, and compromises reproducibility. Advanced metrics such…
+**[Expert-level detection of low-voltage intervals in EEG as a robust biomarker of neonatal encephalopathy](https://arxiv.org/abs/2610.12680v1)**  
+_John M. O'Toole, Sean R. Mathieson, Aurel Luca et al. · 2026-10-08_  
+Background: Discontinuity in neonatal EEG is a critical marker of brain dysfunction but can be difficult to quantify visually. Inter-burst intervals (IBIs) are a key characteristic of discontinuity…
 
-**[Quiet, rapid 3D multiparametric mapping using magnetization-prepared zero echo time MRI](https://arxiv.org/abs/2610.01330v1)**  
-_Alireza Samadifardheris, Shishuai Wang, Ana Beatriz Solana et al. · 2026-10-01_  
-Purpose: To introduce and evaluate MuPa-ZTE, a quiet, rapid 3D framework combining native and magnetization-prepared zero echo time (ZTE) acquisitions for multiparametric mapping. Methods: MuPa-ZTE…
+**[Deep preferential evolution guided by pairwise comparisons enables motion correction in photoacoustic tomography](https://arxiv.org/abs/2610.12273v1)**  
+_Karteekeya Sastry, Yousuf Aborahama, Junhao Zhu et al. · 2026-10-08_  
+Motion artifacts in three-dimensional photoacoustic tomography (PAT), caused by extended mechanical scanning of sparse arrays, degrade image quality. Since sparse sampling results in low-quality…
 
-**[Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers](https://arxiv.org/abs/2609.39184v1)**  
-_Sebastian Endt, Marcus Wirth, Johannes Reinhold Schlund et al. · 2026-09-30_  
-Fiber orientation and compartmental microstructure are central to the characterization of white matter tissue in diffusion MRI, yet existing methods either resolve fiber orientations without…
+**[Technical Preparations for the First Carbon-Ion Therapy Facility in the United States](https://arxiv.org/abs/2610.10824v1)**  
+_Jun Tan, Xiaoying Liang, Keith M Furutani et al. · 2026-10-07_  
+Carbon ion radiotherapy (CIRT) provides greater biological effectiveness than conventional photon therapy because of its high linear energy transfer and its ability to induce complex DNA damage. Mayo…
 
-_Updated: 2026-10-05 · source: arXiv physics.med-ph_
+_Updated: 2026-10-12 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
