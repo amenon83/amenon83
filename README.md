@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Warm-IP: A Path-Following ADMM Warm Start for Interior-Point Quadratic Programming](https://arxiv.org/abs/2610.13805v1)**  
-_Babak Aslani, Mojtaba Tefagh, Gourav Jhanwar et al. · 2026-10-09_  
-Interior-point (IP) methods are powerful second-order optimization algorithms but can make slow progress during early iterations. We propose Warm-IP, a hybrid framework that combines a path-following…
+**[Deep Learning Reconstruction for Accelerated Radial CEST MR Fingerprinting](https://arxiv.org/abs/2610.23805v1)**  
+_Karandeep Cheema, Victor Murray, Ricardo Otazo et al. · 2026-10-16_  
+Purpose: To accelerate chemical exchange saturation transfer magnetic resonance fingerprinting (CEST-MRF) using temporal deep learning reconstruction. Methods: Ten healthy volunteers underwent…
 
-**[An anatomically grounded human-scale dynamic model of contraction-driven lymphatic pumping](https://arxiv.org/abs/2610.12760v1)**  
-_Chia-Feng Chang, Ayemon Baraka, Egor Sidorov et al. · 2026-10-08_  
-Lymphangions, the valved muscular segments of lymphatic vessels, pump lymph against an adverse pressure gradient. Current models resolve this pumping in one vessel, a short chain or a regional…
+**[Localizing and quantifying cerebral arterial stenosis from sparse velocity waveforms using a conditional neural operator](https://arxiv.org/abs/2610.23774v1)**  
+_Tong Zhu, Yi Zhu, Jiawei Liu et al. · 2026-10-16_  
+Cerebral arterial stenosis alters blood flow throughout the vascular network, complicating the estimation of its location and severity from sparse velocity observations. We developed a conditional…
 
-**[An anatomically grounded human-scale steady hydraulic model of the lymphatic network](https://arxiv.org/abs/2610.12750v1)**  
-_Chia-Feng Chang, Ayemon Baraka, Egor Sidorov et al. · 2026-10-08_  
-The lymphatic system returns 2 to 3 L of interstitial fluid per day to the venous circulation and drains the central nervous system. Most models of lymph transport describe one lymphangion or a short…
+**[Attenuation corrected activity reconstruction for listmode TOF-PET data](https://arxiv.org/abs/2610.23655v1)**  
+_Ahmadreza Rezaei, Suleman Surti, Samuel Matej et al. · 2026-10-16_  
+Time-of-flight (TOF) positron emission tomography (PET) emission data allow joint estimation of the activity and attenuation images. The methods proposed so far rely on reconstructions from TOF…
 
-**[Expert-level detection of low-voltage intervals in EEG as a robust biomarker of neonatal encephalopathy](https://arxiv.org/abs/2610.12680v1)**  
-_John M. O'Toole, Sean R. Mathieson, Aurel Luca et al. · 2026-10-08_  
-Background: Discontinuity in neonatal EEG is a critical marker of brain dysfunction but can be difficult to quantify visually. Inter-burst intervals (IBIs) are a key characteristic of discontinuity…
+**[Spatiotemporal Adaptive Eigenspectrum Remapping in Transcranial Ultrasound Localization Microscopy](https://arxiv.org/abs/2610.23099v1)**  
+_Stephen A Lee, Isidora Jelenkovic, Maia V. Kokoeva et al. · 2026-10-16_  
+Clutter suppression is a critical preprocessing step in ultrasound blood flow imaging, yet conventional singular value decomposition (SVD) filtering depends on data-specific eigenvalue cutoffs that…
 
-**[Deep preferential evolution guided by pairwise comparisons enables motion correction in photoacoustic tomography](https://arxiv.org/abs/2610.12273v1)**  
-_Karteekeya Sastry, Yousuf Aborahama, Junhao Zhu et al. · 2026-10-08_  
-Motion artifacts in three-dimensional photoacoustic tomography (PAT), caused by extended mechanical scanning of sparse arrays, degrade image quality. Since sparse sampling results in low-quality…
+**[Implementing the EIT complete electrode model through Robin boundary conditions](https://arxiv.org/abs/2610.22944v1)**  
+_Bing-Zhou Chen, Amelia Deakin, Andy Adler et al. · 2026-10-16_  
+Objective. Medical electrical impedance tomography systems prescribe electrode currents. Accurate voltages, even on passive electrodes, require the complete electrode model (CEM), the most accurate…
 
-**[Technical Preparations for the First Carbon-Ion Therapy Facility in the United States](https://arxiv.org/abs/2610.10824v1)**  
-_Jun Tan, Xiaoying Liang, Keith M Furutani et al. · 2026-10-07_  
-Carbon ion radiotherapy (CIRT) provides greater biological effectiveness than conventional photon therapy because of its high linear energy transfer and its ability to induce complex DNA damage. Mayo…
+**[A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](https://arxiv.org/abs/2610.20304v1)**  
+_Nico Frederic Brosda, Stephane Higueret, Nicolas Arbor et al. · 2026-10-14_  
+Proton therapy enables highly conformal tumour irradiation by exploiting the Bragg peak. Clinical precision relies on detector systems that provide linearity, spatial resolution, radiation hardness…
 
-_Updated: 2026-10-12 · source: arXiv physics.med-ph_
+_Updated: 2026-10-19 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
