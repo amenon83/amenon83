@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Deep Learning Reconstruction for Accelerated Radial CEST MR Fingerprinting](https://arxiv.org/abs/2610.23805v1)**  
-_Karandeep Cheema, Victor Murray, Ricardo Otazo et al. · 2026-10-16_  
-Purpose: To accelerate chemical exchange saturation transfer magnetic resonance fingerprinting (CEST-MRF) using temporal deep learning reconstruction. Methods: Ten healthy volunteers underwent…
+**[U-NeXt: General-purpose event detection for neonatal EEG](https://arxiv.org/abs/2610.32811v1)**  
+_Robert Hogan, Sean R. Mathieson, Aurel Luca et al. · 2026-10-23_  
+We developed U-NeXt, a general framework for neonatal electroencephalography (EEG) event detection based on semantic segmentation. Its convolutional encoder-decoder directly segments individual…
 
-**[Localizing and quantifying cerebral arterial stenosis from sparse velocity waveforms using a conditional neural operator](https://arxiv.org/abs/2610.23774v1)**  
-_Tong Zhu, Yi Zhu, Jiawei Liu et al. · 2026-10-16_  
-Cerebral arterial stenosis alters blood flow throughout the vascular network, complicating the estimation of its location and severity from sparse velocity observations. We developed a conditional…
+**[OPTARI: An open-source software framework for clinical translation of optoacoustic imaging](https://arxiv.org/abs/2610.32468v1)**  
+_Moritz Schillinger, Maximilian Bader, Adrian Buehler et al. · 2026-10-23_  
+Combined optoacoustic (OptA) and ultrasound imaging is a promising modality across a wide range of pathologies. Its use in clinical research, however, is limited by a lack of analysis software…
 
-**[Attenuation corrected activity reconstruction for listmode TOF-PET data](https://arxiv.org/abs/2610.23655v1)**  
-_Ahmadreza Rezaei, Suleman Surti, Samuel Matej et al. · 2026-10-16_  
-Time-of-flight (TOF) positron emission tomography (PET) emission data allow joint estimation of the activity and attenuation images. The methods proposed so far rely on reconstructions from TOF…
+**[Interactive image diagnosis using test-time backpropagation from the auxiliary task](https://arxiv.org/abs/2610.32396v1)**  
+_Takuro Shimaya · 2026-10-23_  
+Multi-task deep learning has been developed to ensure explainability in computer-aided diagnosis (CAD) systems. These systems simultaneously predict interpretable characteristics of findings in…
 
-**[Spatiotemporal Adaptive Eigenspectrum Remapping in Transcranial Ultrasound Localization Microscopy](https://arxiv.org/abs/2610.23099v1)**  
-_Stephen A Lee, Isidora Jelenkovic, Maia V. Kokoeva et al. · 2026-10-16_  
-Clutter suppression is a critical preprocessing step in ultrasound blood flow imaging, yet conventional singular value decomposition (SVD) filtering depends on data-specific eigenvalue cutoffs that…
+**[Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation](https://arxiv.org/abs/2610.32377v1)**  
+_Takuro Shimaya, Masahiro Saiko · 2026-10-23_  
+The quality of the teacher label has a dramatic impact on the outcome of the machine learning process. Medical image segmentation often suffers from a noisy ground truth (GT) mask due to difficulties…
 
-**[Implementing the EIT complete electrode model through Robin boundary conditions](https://arxiv.org/abs/2610.22944v1)**  
-_Bing-Zhou Chen, Amelia Deakin, Andy Adler et al. · 2026-10-16_  
-Objective. Medical electrical impedance tomography systems prescribe electrode currents. Accurate voltages, even on passive electrodes, require the complete electrode model (CEM), the most accurate…
+**[Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery](https://arxiv.org/abs/2610.31567v1)**  
+_Heather Jin Hee Kim, Mohsen Alishahi, Kyuin Park et al. · 2026-10-22_  
+Objective: Iontophoretic drug delivery has primarily relied on current modulation to regulate drug transport. Here, we investigate hydrogel geometry, microstructure, and local electric fields as…
 
-**[A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring](https://arxiv.org/abs/2610.20304v1)**  
-_Nico Frederic Brosda, Stephane Higueret, Nicolas Arbor et al. · 2026-10-14_  
-Proton therapy enables highly conformal tumour irradiation by exploiting the Bragg peak. Clinical precision relies on detector systems that provide linearity, spatial resolution, radiation hardness…
+**[Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation](https://arxiv.org/abs/2610.31340v1)**  
+_Jeremy M. C. Brown, Mantas Grigalavicius, Tibor Gilinger et al. · 2026-10-22_  
+Copper-64 radiopharmaceuticals have seen limited clinical deployment primarily due to the high cost of the isotopically enriched $^{64}$Ni metal required for its production. In this work we…
 
-_Updated: 2026-10-19 · source: arXiv physics.med-ph_
+_Updated: 2026-10-26 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
