@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Quantitative Ultrasound Characterizes Perfusion Trajectories in Healthy and Inflamed Gingival Wound Healing](https://arxiv.org/abs/2610.41897v1)**  
-_Haowei Tai, Oscar Duran-Garnica, Karen Villarreal et al. · 2026-10-30_  
-Rationale and Objectives: Visual examination of extraction-site healing provides limited insight into underlying vascular recovery. We developed a quantitative ultrasound framework to assess gingival…
+**[SmartBloch-Agent: An Agentic Framework for Automated MRI Sequence Design and Optimization](https://arxiv.org/abs/2611.09413v1)**  
+_Jiakai Yang, Haoye Zheng, Yixiao Yue et al. · 2026-11-06_  
+Magnetic resonance imaging (MRI) pulse sequences organize radiofrequency excitation, gradient encoding, and signal acquisition, determining magnetization evolution and image formation. Sequence…
 
-**[Roadmap: Image reconstruction in emission tomography for the era of fast Monte Carlo simulation](https://arxiv.org/abs/2610.41583v1)**  
-_Georg Schramm, Benjamin Auer, Ane Etxebeste et al. · 2026-10-30_  
-Quantitative image reconstruction in positron emission tomography and single photon emission computed tomography depends on how accurately the forward model describes photon emission, transport and…
+**[Smart Spectral Doppler Ultrasound Imaging using Motion Tracking based on Wide-beam transmission and Neural Networks: Preliminary Results](https://arxiv.org/abs/2611.09002v1)**  
+_Jihye Baek, Allison Lee, Jinbum Kang et al. · 2026-11-06_  
+Ultrasound spectral Doppler imaging provides quantitative blood flow information for vascular diagnosis, but its accuracy is limited by the one-dimensional (1D) sample volume (SV). Motion from…
 
-**[A General-Purpose Adaptable Foundation Model for Total-Body PET Kinetic Modelling](https://arxiv.org/abs/2610.41093v1)**  
-_Yun Zhao, Qinlin Gu, Andrew J. Reader et al. · 2026-10-30_  
-Voxel-level kinetic modeling in total-body dynamic positron emission tomography (TB-PET) enables precise physiological quantification but complicates parameter uncertainty estimation. While…
+**[Dual-energy cardiac DSA imaging using a dual-layer flat-panel detector: in vivo validation study](https://arxiv.org/abs/2611.08820v1)**  
+_Yuhang Tan, Jiongtao Zhu, Xin Zhang et al. · 2026-11-06_  
+Background: The temporal misregistration in conventional X-ray digital subtraction angiography (DSA) remains a key challenge for its practical application in cardiac catheterization, leading to…
 
-**[Comparison of melanin subtypes using pump-probe microscopy](https://arxiv.org/abs/2610.40969v1)**  
-_Emma Bao, David Grass, Martin C. Fischer et al. · 2026-10-29_  
-Pump-probe microscopy (PPM) is used to probe excited state dynamics of endogenous chromophores to generate contrast that is unavailable in traditional forms of microscopy. Here we apply PPM to…
+**[Medical Radioisotopes: Supply-chain Resilience, Distributed Production, and Access](https://arxiv.org/abs/2611.08734v1)**  
+_David McClain, Daniel Winklehner, Faraz Farhadi et al. · 2026-11-05_  
+Over 50 million diagnostic procedures involving medical radioisotopes are performed per year and the number of therapeutic and theranostic agents continues to climb. Yet, the global supply chain is…
 
-**[EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis](https://arxiv.org/abs/2610.40046v1)**  
-_Alzahra Altalib, Chunhui Li, Alessandro Perelli · 2026-10-29_  
-Cone beam computed tomography (CBCT) is widely used for image guided and adaptive radiotherapy, but scatter, noise, reconstruction artifacts, and inaccurate Hounsfield units limit its quantitative…
+**[Medical Radioisotopes: Clinical Demand, Production Physics, and Untapped Pathways](https://arxiv.org/abs/2611.08727v1)**  
+_Jarrett Moon, Claire Huchthausen, Jose R Alonso et al. · 2026-11-05_  
+Over 40 radioisotopes are currently in use or under development across virtually all fields of modern medicine. Their availability relies on a complex interplay of nuclear physics, radiochemistry…
 
-**[Evaluation of attenuation-based simulated X-ray images for image-guided radiotherapy](https://arxiv.org/abs/2610.39647v1)**  
-_Hannah Jungreuthmayer, Julius Arnold, Andreas Renner et al. · 2026-10-29_  
-In image-guided radiation therapy (IGRT), in-room X-rays are often used for patient positioning and monitoring, however, usually default imaging settings are utilized for each indication. Obtaining…
+**[High resolution 3D localization of ultrasound sparse sources using a SAGE algorithm](https://arxiv.org/abs/2611.07966v1)**  
+_Sophie V. Heymans, François Rottenberg, Tatiana Gelvez-Barrera et al. · 2026-11-05_  
+Reliable localization and characterization of cavitation activity are central to many ultrasound imaging and therapy monitoring applications. Passive acoustic mapping (PAM) can estimate cavitation…
 
-_Updated: 2026-11-02 · source: arXiv physics.med-ph_
+_Updated: 2026-11-09 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
