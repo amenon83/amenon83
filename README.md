@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[SmartBloch-Agent: An Agentic Framework for Automated MRI Sequence Design and Optimization](https://arxiv.org/abs/2611.09413v1)**  
-_Jiakai Yang, Haoye Zheng, Yixiao Yue et al. · 2026-11-06_  
-Magnetic resonance imaging (MRI) pulse sequences organize radiofrequency excitation, gradient encoding, and signal acquisition, determining magnetization evolution and image formation. Sequence…
+**[Scan-specific k-space interpolation using deep Koopman autoencoders](https://arxiv.org/abs/2611.18301v1)**  
+_Wassim Ben Salah, Jon Cleary, Sarah McElroy et al. · 2026-11-13_  
+Purpose: To develop a scan-specific, interpretable k-space interpolation technique for the reconstruction of accelerated MRI data. Methods: A deep Koopman autoencoder for nonlinear k-space…
 
-**[Smart Spectral Doppler Ultrasound Imaging using Motion Tracking based on Wide-beam transmission and Neural Networks: Preliminary Results](https://arxiv.org/abs/2611.09002v1)**  
-_Jihye Baek, Allison Lee, Jinbum Kang et al. · 2026-11-06_  
-Ultrasound spectral Doppler imaging provides quantitative blood flow information for vascular diagnosis, but its accuracy is limited by the one-dimensional (1D) sample volume (SV). Motion from…
+**[Certificate-Based Verification of Pulsed Field Ablation Models](https://arxiv.org/abs/2611.18148v1)**  
+_Konstantinos Dovelos · 2026-11-13_  
+Computational models of pulsed field ablation predict the lesion as the tissue where the electric field exceeds a lethal threshold. Their numerical error is rarely bounded, and automated pipelines…
 
-**[Dual-energy cardiac DSA imaging using a dual-layer flat-panel detector: in vivo validation study](https://arxiv.org/abs/2611.08820v1)**  
-_Yuhang Tan, Jiongtao Zhu, Xin Zhang et al. · 2026-11-06_  
-Background: The temporal misregistration in conventional X-ray digital subtraction angiography (DSA) remains a key challenge for its practical application in cardiac catheterization, leading to…
+**[Reproduction of Simulated Acoustics Scenes Using Acoustics Room Transformer for speech intelligibility tests in Clinics](https://arxiv.org/abs/2611.18103v1)**  
+_Ali Fallah, Kirsten C Wagener, Pascal Pflueger et al. · 2026-11-13_  
+An Acoustic Room Transformation (ART) method is proposed for clinical applications to render simulated acoustic environments using six loudspeakers in a reverberant room. In typical clinical…
 
-**[Medical Radioisotopes: Supply-chain Resilience, Distributed Production, and Access](https://arxiv.org/abs/2611.08734v1)**  
-_David McClain, Daniel Winklehner, Faraz Farhadi et al. · 2026-11-05_  
-Over 50 million diagnostic procedures involving medical radioisotopes are performed per year and the number of therapeutic and theranostic agents continues to climb. Yet, the global supply chain is…
+**[A Multiobjective Optimization Framework for Sensor Array Design in Magnetocardiography](https://arxiv.org/abs/2611.17976v1)**  
+_Kesavaraja C, Sammita Kashyap, Korak Biswas et al. · 2026-11-13_  
+Magnetocardiography (MCG) noninvasively measures cardiac magnetic fields. Conventional cryogenic systems use fixed multichannel arrays, whereas room-temperature sensors enable flexible placement to…
 
-**[Medical Radioisotopes: Clinical Demand, Production Physics, and Untapped Pathways](https://arxiv.org/abs/2611.08727v1)**  
-_Jarrett Moon, Claire Huchthausen, Jose R Alonso et al. · 2026-11-05_  
-Over 40 radioisotopes are currently in use or under development across virtually all fields of modern medicine. Their availability relies on a complex interplay of nuclear physics, radiochemistry…
+**[A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging](https://arxiv.org/abs/2611.17468v1)**  
+_Andrea Borghesi, Julia van Beurden, Maarten van Alphen et al. · 2026-11-12_  
+2D-to-3D image registration is a key component for several medical imaging purposes such as intraoperative guidance, enabling the alignment between preoperative 3D volumes and real-time 2D images…
 
-**[High resolution 3D localization of ultrasound sparse sources using a SAGE algorithm](https://arxiv.org/abs/2611.07966v1)**  
-_Sophie V. Heymans, François Rottenberg, Tatiana Gelvez-Barrera et al. · 2026-11-05_  
-Reliable localization and characterization of cavitation activity are central to many ultrasound imaging and therapy monitoring applications. Passive acoustic mapping (PAM) can estimate cavitation…
+**[A Feasibility Study of Whole-Cerebrum Task-Based fMRI at 0.55 T: Motor and Visual Tasks Using Single-Shot EPI](https://arxiv.org/abs/2611.17211v1)**  
+_Parsa Razmara, Takfarinas Medani, Anand A. Joshi et al. · 2026-11-12_  
+Purpose: To evaluate the feasibility of whole-cerebrum task-based fMRI on a modern 0.55T system, examining the effects of extended scan duration and within-session consistency on functional mapping…
 
-_Updated: 2026-11-09 · source: arXiv physics.med-ph_
+_Updated: 2026-11-16 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
