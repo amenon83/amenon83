@@ -63,31 +63,31 @@ I'm **Arnav Menon**, a Ph.D. student in the **Nuclear & Radiological Engineering
 <sub>The latest <b>physics.med-ph</b> preprints from <a href="https://arxiv.org/list/physics.med-ph/recent">arXiv</a>, auto-refreshed weekly by a GitHub Action. A snapshot of where the field is moving.</sub>
 
 <!-- ARXIV-FEED:START -->
-**[Scan-specific k-space interpolation using deep Koopman autoencoders](https://arxiv.org/abs/2611.18301v1)**  
-_Wassim Ben Salah, Jon Cleary, Sarah McElroy et al. · 2026-11-13_  
-Purpose: To develop a scan-specific, interpretable k-space interpolation technique for the reconstruction of accelerated MRI data. Methods: A deep Koopman autoencoder for nonlinear k-space…
+**[Receptor Abundance Alone Underpredicts Red Blood Cell Adhesion in Gaucher Disease](https://arxiv.org/abs/2611.27960v1)**  
+_Zhaojie Chai, Pierre A. Buffet, Melanie Franco et al. · 2026-11-20_  
+Red blood cells (RBCs) in Gaucher disease (GD) adhere abnormally to vessel walls and carry more Lutheran/basal cell adhesion molecule (Lu/BCAM), a laminin receptor. Whether receptor abundance sets…
 
-**[Certificate-Based Verification of Pulsed Field Ablation Models](https://arxiv.org/abs/2611.18148v1)**  
-_Konstantinos Dovelos · 2026-11-13_  
-Computational models of pulsed field ablation predict the lesion as the tissue where the electric field exceeds a lethal threshold. Their numerical error is rarely bounded, and automated pipelines…
+**[ReCoFlow-MRI: Few-Step Conditional Flow Matching for GNL-Induced Nonlinear MRI Reconstruction](https://arxiv.org/abs/2611.27590v1)**  
+_Qidi Luo, Hongli Chen, Jialiang Zhang et al. · 2026-11-20_  
+Objective: Accelerated magnetic resonance imaging (MRI) reconstruction is challenging in the presence of gradient nonlinearity (GNL). GNL-induced nonlinear spatial encoding causes geometric…
 
-**[Reproduction of Simulated Acoustics Scenes Using Acoustics Room Transformer for speech intelligibility tests in Clinics](https://arxiv.org/abs/2611.18103v1)**  
-_Ali Fallah, Kirsten C Wagener, Pascal Pflueger et al. · 2026-11-13_  
-An Acoustic Room Transformation (ART) method is proposed for clinical applications to render simulated acoustic environments using six loudspeakers in a reverberant room. In typical clinical…
+**[Optical Scintillation Imaging for Dynamic Source Tracking Dosimetry During Prostate HDR Brachytherapy](https://arxiv.org/abs/2611.27146v1)**  
+_Kevin Willy, Megan Clark, Petr Bruza et al. · 2026-11-20_  
+High-dose-rate (HDR) brachytherapy is highly conformal, but its accuracy depends on catheter and source placement, and clinical workflows lack real-time in vivo dosimetry (IVD) that verifies delivery…
 
-**[A Multiobjective Optimization Framework for Sensor Array Design in Magnetocardiography](https://arxiv.org/abs/2611.17976v1)**  
-_Kesavaraja C, Sammita Kashyap, Korak Biswas et al. · 2026-11-13_  
-Magnetocardiography (MCG) noninvasively measures cardiac magnetic fields. Conventional cryogenic systems use fixed multichannel arrays, whereas room-temperature sensors enable flexible placement to…
+**[Three-Dimensional Ultrasound Localization Microscopy Using Hadamard-Encoded Multipulse and 4D Denoising on a 256-Channel System with a 1024-element Matrix Array: A Feasibility Study in Human Kidney Transplants](https://arxiv.org/abs/2611.26751v1)**  
+_U-Wai Lok, Jingke Zhang, Jingyi Yin et al. · 2026-11-19_  
+Three-dimensional ultrasound localization microscopy (3D ULM) enables volumetric visualization of microvasculature beyond the acoustic diffraction limit, but its clinical translation remains limited…
 
-**[A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging](https://arxiv.org/abs/2611.17468v1)**  
-_Andrea Borghesi, Julia van Beurden, Maarten van Alphen et al. · 2026-11-12_  
-2D-to-3D image registration is a key component for several medical imaging purposes such as intraoperative guidance, enabling the alignment between preoperative 3D volumes and real-time 2D images…
+**[Transition Dynamics Matter: Hidden Markov Scoring of Epileptogenic Channels in SEEG](https://arxiv.org/abs/2611.26142v1)**  
+_Giulia Tacconi, Federico Mason, Lorenzo Ferri et al. · 2026-11-19_  
+Stereo-electroencephalography (SEEG) represents the most effective technique for the detection of the Epileptogenic Zone (EZ) in drug-resistant epilepsy. This procedure produces a multi-dimensional…
 
-**[A Feasibility Study of Whole-Cerebrum Task-Based fMRI at 0.55 T: Motor and Visual Tasks Using Single-Shot EPI](https://arxiv.org/abs/2611.17211v1)**  
-_Parsa Razmara, Takfarinas Medani, Anand A. Joshi et al. · 2026-11-12_  
-Purpose: To evaluate the feasibility of whole-cerebrum task-based fMRI on a modern 0.55T system, examining the effects of extended scan duration and within-session consistency on functional mapping…
+**[Physics-Informed Deep Learning for Shear Wave Speed Estimation in MR Elastography](https://arxiv.org/abs/2611.26111v1)**  
+_Stefan Martin, Jakob Schattenfroh, Patrick Schuenke et al. · 2026-11-19_  
+Objective: Magnetic Resonance Elastography (MRE) is a non-invasive imaging technique for mapping biomechanical properties of in vivo tissue, including shear wave speed (SWS), but involves…
 
-_Updated: 2026-11-16 · source: arXiv physics.med-ph_
+_Updated: 2026-11-24 · source: arXiv physics.med-ph_
 <!-- ARXIV-FEED:END -->
 
 ---
